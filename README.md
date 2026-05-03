@@ -65,11 +65,11 @@ The goal is to uncover actionable business insights related to:
 <br>
 🔁 Transformed Purchase Frequency:
 <br>
-      • Converted categorical values into numeric format
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Converted categorical values into numeric format
 <br>
 🎯 Built Customer Segments:
 <br>
-     • New, Regular, Loyal (based on purchase behavior)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• New, Regular, Loyal (based on purchase behavior)
      
 <h3>📊 Key Insights</h3>
 👩 Gender-Based Performance
@@ -102,19 +102,19 @@ This project includes advanced SQL queries to extract business insights:
 <br>
 • 📊 Revenue Analysis
 <br>
-     • Total revenue by age group
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Total revenue by age group
 <br>
 • 🧠 Customer Intelligence
 <br>
-     • Identification of high-value “smart shoppers”
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Identification of high-value “smart shoppers”
 <br>
-     • (High spending + promo code usage)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• (High spending + promo code usage)
 <br>
 • 🏆 Category Leaders
 <br>
-     • Top 3 most purchased products per category
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Top 3 most purchased products per category
 <br>
-     • Implemented using window functions
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Implemented using window functions
 <h3>📈 Dashboard Preview</h3>
 <img width="657" height="384" alt="Screenshot 2026-05-03 172208" src="https://github.com/user-attachments/assets/67c43919-263c-42fb-bda6-da0594179e9e" />
 
@@ -130,21 +130,21 @@ This project includes advanced SQL queries to extract business insights:
 <h3>💡 Strategic Recommendations</h3>
 • 📈 Boost Subscriptions
 <br>
-      • Convert non-subscribers with exclusive benefits
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Convert non-subscribers with exclusive benefits
 <br>
 • 🎯 Enhance Loyalty Programs
 <br>
-      • Reward returning customers to increase retention
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Reward returning customers to increase retention
 <br>
 • 📣 Targeted Marketing
 <br>
-      • Focus on:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Focus on:
 <br>
-      • Young Adults
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Young Adults
 <br>
-      • High-spending segments
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• High-spending segments
 <br>
-      • Express shipping users
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Express shipping users
 
 <h3>📦 Customer-Shopping-Analysis</h3>
  ┣ 📜 data cleaning.ipynb
