@@ -27,17 +27,23 @@ The goal is to uncover actionable business insights related to:
 
 <h3>🛠️ Tech Stack</h3>
 | Tool       | Purpose                       |
+<br>
 | ---------- | ----------------------------- |
+<br>
 | Python     | Data Cleaning & Preprocessing |
+<br>
 | Pandas     | Data Manipulation             |
+<br>
 | NumPy      | Numerical Operations          |
+<br>
 | MySQL      | Data Analysis (SQL Queries)   |
+<br>
 | SQLAlchemy | Python–SQL Integration        |
+<br>
 | Power BI   | Dashboard & Visualization     |
 <br>
 <h3>🔄 Data Preparation Workflow</h3>
 <h4>🔍 Data Exploration</h4>
-<br>
 • Performed initial analysis using df.info() and df.describe()
 <br>
 • Identified data types, distributions, and inconsistencies
@@ -55,7 +61,7 @@ The goal is to uncover actionable business insights related to:
 <h4>⚙️ Feature Engineering</h4>
 👥 Created Age Groups:
 <br>
-      • Young Adult, Adult, Middle-aged, Senior
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Young Adult, Adult, Middle-aged, Senior
 <br>
 🔁 Transformed Purchase Frequency:
 <br>
